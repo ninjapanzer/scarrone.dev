@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ACID and SOLID are buddies
-date: 2023-04-19 09:50 -0500
+date: 2023-04-18 09:50 -0500
 categories: SoftwareDevelopment
 ---
 
