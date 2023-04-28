@@ -11,6 +11,10 @@ author: Paul Scarrone
 # Short bio or description (displayed in the header)
 description: Just Ideas I have
 
+# Quote
+quotes:
+  - "Avast, hold tight your buns, if buns you do hold dear! For time has come to wake and run, and not give way to fear. -- Wall Words"
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/icons8-console-96.png
 

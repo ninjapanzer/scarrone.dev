@@ -5,7 +5,7 @@ date: 2023-04-28 08:07 -0400
 categories: SoftwareDevelopment Observability Ruby
 ---
 
-For a while now I have been thinking about how to add composable observability to my production ruby platform. In the past I have seen the wiring of such tools happen in a shared baseclass that ends up connecting all components of the system and slowly growing with shared behaviors. Of course that's more of a culture problem than a programming pattern problem. ¯\_(ツ)_/¯
+For a while now I have been thinking about how to add composable observability to my production ruby platform. In the past I have seen the wiring of such tools happen in a shared baseclass that ends up connecting all components of the system and slowly growing with shared behaviors. Of course that's more of a culture problem than a programming pattern problem. ¯\\_(ツ)_/¯
 
 Focusing on modularity I put together an example [https://github.com/ninjapanzer/ruby_aop_logging_aspect_example](https://github.com/ninjapanzer/ruby_aop_logging_aspect_example)
 
